@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2054'
     url: http://www.gutenberg.org/2009/agents/2054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16406#An-Introduction-to-Philosophy
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
